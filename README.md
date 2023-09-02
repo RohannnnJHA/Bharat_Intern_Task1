@@ -1,1 +1,1 @@
-# This is Netflix clone website made using HTML, CSS.
+# It is a Netflix clone website made using HTML and CSS.
